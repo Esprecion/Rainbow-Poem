@@ -4,5 +4,6 @@ Purple
 Pink
 Blue 
 Orange 
+Green
 Red
-"These are some of the colors of the rainbow"
+These are the colors of the rainbow
